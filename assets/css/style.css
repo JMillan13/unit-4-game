@@ -1,6 +1,6 @@
 /* General Elements*/
 body {
-	background: url("backgroundbluewhitebackround.png") no-repeat center center fixed;
+	background-image: url("../images/backgroundbluewhitebackground.png");
 	background-size: cover;
 }
 
@@ -84,7 +84,7 @@ section p {
 #crystals {
 	width: 25%;
 	height: 100%;
-	/*float: left;*/
+
 }
 
 #current-score {
@@ -107,7 +107,3 @@ section p {
 	font-size: 350%;
 	padding-left: 10px;
 }
-
-body {
-  background-image: url("backgroundbluewhitebackround.png");
-  }
