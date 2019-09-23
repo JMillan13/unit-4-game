@@ -3,7 +3,7 @@ https://jmillan13.github.io/unit-4-game/
 
 Using jQuery:
 
-The player will have to guess the answer. This time though, the player will guess with numbers instead of letters.
+The player will have to guess the answer, by guessing the right number.
 
 
 Here's how the app works:
