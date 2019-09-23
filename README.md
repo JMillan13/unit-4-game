@@ -1,4 +1,4 @@
-
+https://jmillan13.github.io/unit-4-game/
 # RPG Game
 
 Using jQuery:
@@ -23,3 +23,6 @@ The game restarts whenever the player wins or loses.
 
 When the game begins again, the player should see a new random number. Also, all the crystals will have four new hidden values. Of course, the user's score (and score counter) will reset to zero.
 The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
+
+
+![image](https://user-images.githubusercontent.com/46582302/65398061-f8225f80-dd82-11e9-99b6-81c66d444e3b.png)
